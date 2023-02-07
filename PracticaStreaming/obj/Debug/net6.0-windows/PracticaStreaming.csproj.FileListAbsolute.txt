@@ -1,0 +1,17 @@
+C:\Users\ticui\source\repos\PracticaStreaming\PracticaStreaming\bin\Debug\net6.0-windows\PracticaStreaming.exe
+C:\Users\ticui\source\repos\PracticaStreaming\PracticaStreaming\bin\Debug\net6.0-windows\PracticaStreaming.deps.json
+C:\Users\ticui\source\repos\PracticaStreaming\PracticaStreaming\bin\Debug\net6.0-windows\PracticaStreaming.runtimeconfig.json
+C:\Users\ticui\source\repos\PracticaStreaming\PracticaStreaming\bin\Debug\net6.0-windows\PracticaStreaming.dll
+C:\Users\ticui\source\repos\PracticaStreaming\PracticaStreaming\bin\Debug\net6.0-windows\PracticaStreaming.pdb
+C:\Users\ticui\source\repos\PracticaStreaming\PracticaStreaming\obj\Debug\net6.0-windows\PracticaStreaming.csproj.AssemblyReference.cache
+C:\Users\ticui\source\repos\PracticaStreaming\PracticaStreaming\obj\Debug\net6.0-windows\PracticaStreaming.csproj.GenerateResource.cache
+C:\Users\ticui\source\repos\PracticaStreaming\PracticaStreaming\obj\Debug\net6.0-windows\PracticaStreaming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ticui\source\repos\PracticaStreaming\PracticaStreaming\obj\Debug\net6.0-windows\PracticaStreaming.AssemblyInfoInputs.cache
+C:\Users\ticui\source\repos\PracticaStreaming\PracticaStreaming\obj\Debug\net6.0-windows\PracticaStreaming.AssemblyInfo.cs
+C:\Users\ticui\source\repos\PracticaStreaming\PracticaStreaming\obj\Debug\net6.0-windows\PracticaStreaming.csproj.CoreCompileInputs.cache
+C:\Users\ticui\source\repos\PracticaStreaming\PracticaStreaming\obj\Debug\net6.0-windows\PracticaStreaming.dll
+C:\Users\ticui\source\repos\PracticaStreaming\PracticaStreaming\obj\Debug\net6.0-windows\refint\PracticaStreaming.dll
+C:\Users\ticui\source\repos\PracticaStreaming\PracticaStreaming\obj\Debug\net6.0-windows\PracticaStreaming.pdb
+C:\Users\ticui\source\repos\PracticaStreaming\PracticaStreaming\obj\Debug\net6.0-windows\PracticaStreaming.genruntimeconfig.cache
+C:\Users\ticui\source\repos\PracticaStreaming\PracticaStreaming\obj\Debug\net6.0-windows\ref\PracticaStreaming.dll
+C:\Users\ticui\source\repos\PracticaStreaming\PracticaStreaming\obj\Debug\net6.0-windows\PracticaStreaming.Servicios.resources
