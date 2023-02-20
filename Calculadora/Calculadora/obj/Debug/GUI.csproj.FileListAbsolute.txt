@@ -1,0 +1,26 @@
+C:\Users\ticui\source\repos\Calculadora\Calculadora\bin\Debug\GUI.exe.config
+C:\Users\ticui\source\repos\Calculadora\Calculadora\bin\Debug\GUI.exe
+C:\Users\ticui\source\repos\Calculadora\Calculadora\bin\Debug\GUI.pdb
+C:\Users\ticui\source\repos\Calculadora\Calculadora\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\ticui\source\repos\Calculadora\Calculadora\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ticui\source\repos\Calculadora\Calculadora\obj\Debug\GUI.FrmCalculadora.resources
+C:\Users\ticui\source\repos\Calculadora\Calculadora\obj\Debug\GUI.FrmInicioSesion.resources
+C:\Users\ticui\source\repos\Calculadora\Calculadora\obj\Debug\GUI.FrmLugares.resources
+C:\Users\ticui\source\repos\Calculadora\Calculadora\obj\Debug\GUI.FrmRegistro.resources
+C:\Users\ticui\source\repos\Calculadora\Calculadora\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\ticui\source\repos\Calculadora\Calculadora\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\ticui\source\repos\Calculadora\Calculadora\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\ticui\source\repos\Calculadora\Calculadora\obj\Debug\GUI.exe
+C:\Users\ticui\source\repos\Calculadora\Calculadora\obj\Debug\GUI.pdb
+C:\Users\ticui\source\repos\Calculadora\Calculadora\obj\Debug\GUI.InputDialog.resources
+C:\Users\ticui\source\repos\Unidad 1\Calculadora\Calculadora\bin\Debug\GUI.exe.config
+C:\Users\ticui\source\repos\Unidad 1\Calculadora\Calculadora\bin\Debug\GUI.exe
+C:\Users\ticui\source\repos\Unidad 1\Calculadora\Calculadora\bin\Debug\GUI.pdb
+C:\Users\ticui\source\repos\Unidad 1\Calculadora\Calculadora\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\ticui\source\repos\Unidad 1\Calculadora\Calculadora\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ticui\source\repos\Unidad 1\Calculadora\Calculadora\obj\Debug\GUI.FrmLugares.resources
+C:\Users\ticui\source\repos\Unidad 1\Calculadora\Calculadora\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\ticui\source\repos\Unidad 1\Calculadora\Calculadora\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\ticui\source\repos\Unidad 1\Calculadora\Calculadora\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\ticui\source\repos\Unidad 1\Calculadora\Calculadora\obj\Debug\GUI.exe
+C:\Users\ticui\source\repos\Unidad 1\Calculadora\Calculadora\obj\Debug\GUI.pdb
