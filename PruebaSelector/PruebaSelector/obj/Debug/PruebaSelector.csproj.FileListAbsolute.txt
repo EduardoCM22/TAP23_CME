@@ -1,0 +1,14 @@
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\PruebaSelector\bin\Debug\PruebaSelector.exe.config
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\PruebaSelector\bin\Debug\PruebaSelector.exe
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\PruebaSelector\bin\Debug\PruebaSelector.pdb
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\PruebaSelector\bin\Debug\ControlesEjercicio.dll
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\PruebaSelector\bin\Debug\ControlesEjercicio.pdb
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\PruebaSelector\obj\Debug\PruebaSelector.csproj.AssemblyReference.cache
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\PruebaSelector\obj\Debug\PruebaSelector.csproj.SuggestedBindingRedirects.cache
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\PruebaSelector\obj\Debug\PruebaSelector.Form1.resources
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\PruebaSelector\obj\Debug\PruebaSelector.Properties.Resources.resources
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\PruebaSelector\obj\Debug\PruebaSelector.csproj.GenerateResource.cache
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\PruebaSelector\obj\Debug\PruebaSelector.csproj.CoreCompileInputs.cache
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\PruebaSelector\obj\Debug\PruebaSelector.csproj.CopyComplete
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\PruebaSelector\obj\Debug\PruebaSelector.exe
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\PruebaSelector\obj\Debug\PruebaSelector.pdb

@@ -1,0 +1,8 @@
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\ControlesEjercicio\bin\Debug\ControlesEjercicio.dll
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\ControlesEjercicio\bin\Debug\ControlesEjercicio.pdb
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\ControlesEjercicio\obj\Debug\ControlesEjercicio.csproj.AssemblyReference.cache
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\ControlesEjercicio\obj\Debug\ControlesEjercicio.SelectorDeMes.resources
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\ControlesEjercicio\obj\Debug\ControlesEjercicio.csproj.GenerateResource.cache
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\ControlesEjercicio\obj\Debug\ControlesEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\ControlesEjercicio\obj\Debug\ControlesEjercicio.dll
+C:\Users\ticui\source\repos\Unidad 2\PruebaSelector\ControlesEjercicio\obj\Debug\ControlesEjercicio.pdb
