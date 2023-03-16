@@ -1,0 +1,26 @@
+C:\Users\ticui\source\repos\Unidad 1\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+C:\Users\ticui\source\repos\Unidad 1\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+C:\Users\ticui\source\repos\Unidad 1\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\ticui\source\repos\Unidad 1\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.SuggestedBindingRedirects.cache
+C:\Users\ticui\source\repos\Unidad 1\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.PuntoDeVenta.resources
+C:\Users\ticui\source\repos\Unidad 1\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.RegistroDeProductos.resources
+C:\Users\ticui\source\repos\Unidad 1\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Properties.Resources.resources
+C:\Users\ticui\source\repos\Unidad 1\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\ticui\source\repos\Unidad 1\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\ticui\source\repos\Unidad 1\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+C:\Users\ticui\source\repos\Unidad 1\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
+C:\Users\ticui\source\repos\Unidad 1\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+C:\Users\ticui\source\repos\Unidad 1\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.VentaDeProductos.resources
+F:\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+F:\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+F:\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+F:\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.AssemblyReference.cache
+F:\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.SuggestedBindingRedirects.cache
+F:\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.PuntoDeVenta.resources
+F:\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.RegistroDeProductos.resources
+F:\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Properties.Resources.resources
+F:\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.VentaDeProductos.resources
+F:\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.GenerateResource.cache
+F:\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.CoreCompileInputs.cache
+F:\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+F:\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
