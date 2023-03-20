@@ -1,0 +1,11 @@
+C:\Users\ticui\source\repos\Unidad 3\HilosCorredores\HilosCorredores\bin\Debug\HilosCorredores.exe.config
+C:\Users\ticui\source\repos\Unidad 3\HilosCorredores\HilosCorredores\bin\Debug\HilosCorredores.exe
+C:\Users\ticui\source\repos\Unidad 3\HilosCorredores\HilosCorredores\bin\Debug\HilosCorredores.pdb
+C:\Users\ticui\source\repos\Unidad 3\HilosCorredores\HilosCorredores\obj\Debug\HilosCorredores.csproj.AssemblyReference.cache
+C:\Users\ticui\source\repos\Unidad 3\HilosCorredores\HilosCorredores\obj\Debug\HilosCorredores.csproj.SuggestedBindingRedirects.cache
+C:\Users\ticui\source\repos\Unidad 3\HilosCorredores\HilosCorredores\obj\Debug\HilosCorredores.Corredores.resources
+C:\Users\ticui\source\repos\Unidad 3\HilosCorredores\HilosCorredores\obj\Debug\HilosCorredores.Properties.Resources.resources
+C:\Users\ticui\source\repos\Unidad 3\HilosCorredores\HilosCorredores\obj\Debug\HilosCorredores.csproj.GenerateResource.cache
+C:\Users\ticui\source\repos\Unidad 3\HilosCorredores\HilosCorredores\obj\Debug\HilosCorredores.csproj.CoreCompileInputs.cache
+C:\Users\ticui\source\repos\Unidad 3\HilosCorredores\HilosCorredores\obj\Debug\HilosCorredores.exe
+C:\Users\ticui\source\repos\Unidad 3\HilosCorredores\HilosCorredores\obj\Debug\HilosCorredores.pdb
