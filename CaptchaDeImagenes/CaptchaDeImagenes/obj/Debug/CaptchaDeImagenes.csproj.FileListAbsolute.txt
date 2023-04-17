@@ -1,0 +1,14 @@
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\CaptchaDeImagenes\bin\Debug\CaptchaDeImagenes.exe.config
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\CaptchaDeImagenes\bin\Debug\CaptchaDeImagenes.exe
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\CaptchaDeImagenes\bin\Debug\CaptchaDeImagenes.pdb
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\CaptchaDeImagenes\bin\Debug\ControlDeUsuario.dll
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\CaptchaDeImagenes\bin\Debug\ControlDeUsuario.pdb
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\CaptchaDeImagenes\obj\Debug\CaptchaDeImagenes.csproj.AssemblyReference.cache
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\CaptchaDeImagenes\obj\Debug\CaptchaDeImagenes.csproj.SuggestedBindingRedirects.cache
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\CaptchaDeImagenes\obj\Debug\CaptchaDeImagenes.Form1.resources
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\CaptchaDeImagenes\obj\Debug\CaptchaDeImagenes.Properties.Resources.resources
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\CaptchaDeImagenes\obj\Debug\CaptchaDeImagenes.csproj.GenerateResource.cache
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\CaptchaDeImagenes\obj\Debug\CaptchaDeImagenes.csproj.CoreCompileInputs.cache
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\CaptchaDeImagenes\obj\Debug\CaptchaDeImagenes.csproj.CopyComplete
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\CaptchaDeImagenes\obj\Debug\CaptchaDeImagenes.exe
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\CaptchaDeImagenes\obj\Debug\CaptchaDeImagenes.pdb

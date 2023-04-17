@@ -1,0 +1,9 @@
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\ControlDeUsuario\bin\Debug\ControlDeUsuario.dll
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\ControlDeUsuario\bin\Debug\ControlDeUsuario.pdb
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\ControlDeUsuario\obj\Debug\ControlDeUsuario.csproj.AssemblyReference.cache
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\ControlDeUsuario\obj\Debug\ControlDeUsuario.CaptchaImg.resources
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\ControlDeUsuario\obj\Debug\ControlDeUsuario.Properties.Resources.resources
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\ControlDeUsuario\obj\Debug\ControlDeUsuario.csproj.GenerateResource.cache
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\ControlDeUsuario\obj\Debug\ControlDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\ControlDeUsuario\obj\Debug\ControlDeUsuario.dll
+C:\Users\ticui\source\repos\Unidad 2\CaptchaDeImagenes\ControlDeUsuario\obj\Debug\ControlDeUsuario.pdb
